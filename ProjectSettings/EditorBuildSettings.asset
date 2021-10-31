@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene-Debut.unity
+    guid: beeabb2dd97be294b9e2bf16fcdbd67a
+  - enabled: 1
+    path: Assets/Scenes/LeLaboratoire_1.unity
+    guid: cb1aaae1e4df61742baa8e5e449156b3
+  - enabled: 1
+    path: Assets/Scenes/Scene_Inter.unity
+    guid: 0d1f2fe774faf5d44a0628ee5293bb6f
+  - enabled: 1
+    path: Assets/Scenes/Niveau-2.unity
+    guid: ed3e17f3c6088d74aaa5b436a5178f70
+  - enabled: 1
+    path: Assets/Scenes/Scene_Fin.unity
+    guid: 749e226127902dd4d84ce93b8359c0a9
+  m_configObjects: {}

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 80fbfe4e4e67a8f4cb863e4466808818
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AugustoAldana
+    second: {fileID: 2100000, guid: 08aab549fd51aa148b4936415c7218a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brouillet_Sarah_Mat_Cristal
+    second: {fileID: 2100000, guid: 97344162962b4a94980cf39a83f72ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brouillet_Sarah_Mat_Maison
+    second: {fileID: 2100000, guid: 9926c32db4526f741981ab89091af32c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brouillet_Sarah_Mat_Metal
+    second: {fileID: 2100000, guid: 24b9087e4a201604b80bb06f4fa66e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: J-Phil_Lafontaine_Forest
+    second: {fileID: 2100000, guid: 252d18dc55d4a6242965ef93eb830d47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: J-Phil_Lafontaine_Sol
+    second: {fileID: 2100000, guid: 8480609df3356024281096740ed0a73f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: J-Phil_lafontaine_Cloture2
+    second: {fileID: 2100000, guid: e0ef4eedc9088cf4dbab42529d21ff25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeremy_Bleau
+    second: {fileID: 2100000, guid: 9fdef1fdf99c0074188c5d2ba4a8789d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Langlois_AudreyVitre
+    second: {fileID: 2100000, guid: a2cc07fee5b28f74e8f6e5b767890c58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Langlois_Audrey_Metal
+    second: {fileID: 2100000, guid: 88304007f161d0f489625cbf5e97b02c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Langlois_Audrey_mat
+    second: {fileID: 2100000, guid: 2239f6998a532894a8a283f4b8762429, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaximePicardMat
+    second: {fileID: 2100000, guid: 819421f48bcc58044b8190e2985296e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaximePicardTransparent
+    second: {fileID: 2100000, guid: f258d32030012484da3e387bbfad84d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pinsonneault_Lysight_Emilie
+    second: {fileID: 2100000, guid: 235216bad7deacf45ac73aebf48cf0df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbreton_Reflechissant
+    second: {fileID: 2100000, guid: d2695010a6e57174da0f1ce5e6f2a615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbreton_fluorescent
+    second: {fileID: 2100000, guid: ddbe047b2aed9b345b0dbc5009cb841a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbreton_granuleux
+    second: {fileID: 2100000, guid: 40b7e48397f996f4f909c281b80387d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbreton_granuleux2
+    second: {fileID: 2100000, guid: 337773a6a1bbfae4e90ef399f4671e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rbreton_transparant
+    second: {fileID: 2100000, guid: 741c75b79ad692545b3a52a296530c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbres
+    second: {fileID: 2100000, guid: acc3aed331d186a489cee3a8c7857035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbres.001
+    second: {fileID: 2100000, guid: fad74563086288b498d7245f5473f8fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arbres.002
+    second: {fileID: 2100000, guid: 2d3e12de38ab3c94ea17da860abb9bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yang_marie_texture
+    second: {fileID: 2100000, guid: aa00316b1a7892247ae7b545777d448e, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
